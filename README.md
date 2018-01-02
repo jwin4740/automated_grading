@@ -1,2 +1,2 @@
-# automated_tutoring
+# automated_grading
 automate the trilogy process
